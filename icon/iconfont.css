@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1556622795379'); /* IE9 */
+  src: url('iconfont.eot?t=1556622795379#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAAB9QAAAOcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDGIJuATYCJAMQCwoABCAFhG0HPhvWBlFUTqJkX2FThnsRSOyc47FBSsg3B2cAhMcALIZQoD5ScA4A4uFrv9dzd+9/2RC6RIYlK+z48ngCicJWteNZ19aTUdWErvr9pPf1FvIscSKCmeBj4pWrk1TayR5RXdFYlUNhqtgFWgq4iXMtaVo0G1n5ziPJBtghWNaW//hCnx0OTg3QwEnu4HL8/yU+z95yGXPR3NTGAOOAAhp7gRRogZQgN4xdeRHLCYxYUsbn1OiJMyFYMtoF4o4kMBCcUsua5NCErmRoDscTAVp5VB4AHvufj990j2CKQWV0PX1tFA9Dv/ktv5a+xUJXa9V4RrBRVGwCSdwoNV/iF/o2+RlRfuNvB2iawrd6rv//IXcv4mb+5RGKSnSMxDGwhRyVbzZO8G0cp/DjaYIKL6R1Q4e7wBtEnHuNooqlbmxqRGxY/clfXvR69osmdx+rLjsheNlt+VLofppw7pvqd3lfOLG3E5xLc54k5ocSXLve8ewXnGlrllttfZiALTuU9HTNCcNC1uMUhYc6DrOx2VzR/bCz3QNhYZu2Jd4O5xfmG4YVhMdVhw/7I/VMmZorxo+MM59BTsyd3j1ybuRIG68NzO6IQbdG/C078+fBNPPrvN4dbekxlQmLO8BnVdSM0JkpvW5n2B99V8T8dS9Q6vaUdRBguAznOiBOamOZBXlN63Er7dbnwPD09CSz6rFVpl/gQ9/dr/7UxZLGxiVA4AOZMGxhQ+Mi/xBrm9rG0zcvdvwYe8kcIzxMEx74YY2f3QhHS0AYOBdajjaba7bMgiqA/nJt9kOA+rr+uu84/tR6dEnUwP8NS/Dx3/f9lF7NvNoC3j+nNedHZWUu6P8nw3mGNxM1bJ/b3iHt366nYMS00yP7jPdjSOeVREIzH0MxZNFZNXMKExI3YWDUFnSaAxixYczoUbM0fiKHsa4TQJhyCooJb6Ga8hBJ4jsYWPATOlPhByMuRtyUo5ZDCh2hYcbAPGJrkcRRL7F0RmiQPB0LppvRkjyfNBtruuRE3SqqssEx2Iu1MXroltDdMAgiGvWg0WA17HZTpGhUxpxRIRqG0r+ykpQ9qIKjHgh1QoMxDBgPYdVCJBzKi7ilDaG590+HCUxuDK2moEI/G6bRSZUj3VSoaoGMEXtbFVzLKTqLoDuDgUAIDeWBjAZGzG36KEQpbyTDOIYKYg+Por9KVIy0FVfML/U84TIYYeyXUaJGxkA+lLxCoIKp4sb+IvVgAA==') format('woff2'),
+  url('iconfont.woff?t=1556622795379') format('woff'),
+  url('iconfont.ttf?t=1556622795379') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1556622795379#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xing:before {
+  content: "\e603";
+}
+
+.icon-people:before {
+  content: "\e60d";
+}
+
+.icon-home:before {
+  content: "\e89c";
+}
+
